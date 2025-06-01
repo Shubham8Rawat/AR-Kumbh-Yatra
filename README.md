@@ -1,6 +1,9 @@
 # AR-Kumbh-Yatra
 Augmented Reality experience using Unity and ARCore to showcase the Kumbh Mela
 
+## 📥 Download APK
+[👉 Click here to download (Google Drive)](https://drive.google.com/drive/folders/1Aw4RKmYH3upk37NKIVUlK14uPHoDOIC-?usp=sharing)
+
 Just wrapped up my AR Kumbh Yatra project!
 
 Using Unity (2022 LTS), ARCore, LeanTouch, and custom 3D models created in Blender, I built an interactive Augmented Reality experience that brings the cultural essence of the Maha Kumbh Mela into your living room.

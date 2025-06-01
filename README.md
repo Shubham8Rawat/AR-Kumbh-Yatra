@@ -19,3 +19,4 @@ The app allows users to explore sacred ghats, boats, and temples, and interact w
 • Lightweight, fast, and culturally immersive
 
 🎯 The goal? Use AR to preserve and promote India's cultural heritage in a form that’s accessible, immersive, and fun to experience.
+![img](https://github.com/user-attachments/assets/f1b66710-c2d3-46f8-8e47-7755d42945c8)
